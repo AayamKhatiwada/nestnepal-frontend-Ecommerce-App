@@ -13,3 +13,8 @@ The project is inside the e-commerce folder then install yarn or npm in the proj
 We can run the project by typing 
 
 "yarn start" or "npm start"
+
+
+You can view the webiste from
+
+https://645b857c821c0c0098255574--spontaneous-dasik-bedc84.netlify.app/
